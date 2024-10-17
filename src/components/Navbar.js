@@ -21,7 +21,7 @@
                 <nav >
                     <ul className="flex gap-x-6 text-richblack-100" >
                         <li>
-                            <Link to="/home">Home</Link>
+                            <Link to="/">Home</Link>
                         </li>
                         <li>
                             <Link to="/about"> About</Link>
